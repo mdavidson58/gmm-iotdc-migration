@@ -1,0 +1,82 @@
+2020-09-17 15:53:57,987 - First Application - DEBUG - this is a debug message is 5
+2020-09-17 15:53:57,987 - First Application - INFO - this is a debug message
+2020-09-17 16:52:26,744 - Load Config.yml data - INFO - Failed to load Config data:::
+2020-09-17 16:52:26,744 - Load Config.yml data - ERROR - [Errno 2] No such file or directory: './config1.yml'
+2020-09-17 16:53:25,406 - Load Config.yml data - INFO - Config data load successfully::: 
+2020-09-17 16:54:10,467 - Loading data from  Config.yml ::  - INFO - Config data load successfully::: 
+2020-09-17 16:54:30,883 - Loading data from  Config.yml ::  - INFO - Config data load successfully::: 
+2020-09-17 16:58:36,000 - Loading data from  Config.yml ::  - INFO - Config data load successfully::: 
+2020-09-17 16:58:55,534 - Loading data from  Config.yml ::  - INFO - Config data load successfully::: 
+2020-09-17 17:00:18,794 - Loading data from  Config.yml ::  - INFO - Failed to load Config data:::
+2020-09-17 17:00:18,795 - Loading data from  Config.yml ::  - ERROR - [Errno 2] No such file or directory: './config11.yml'
+2020-09-17 17:00:18,795 - Loading data from  Config.yml ::  - INFO - Exception occurred to get GMM Server Details
+2020-09-17 17:00:18,795 - Loading data from  Config.yml ::  - ERROR - 'GMM_SERVER'
+2020-09-17 17:00:18,795 - Loading data from  Config.yml ::  - INFO - Exception occurred to get RAINE Server Details
+2020-09-17 17:00:18,795 - Loading data from  Config.yml ::  - ERROR - 'RAINE_SERVER'
+2020-09-17 17:00:18,796 - Loading data from  Config.yml ::  - INFO - Failed to load Config data:::
+2020-09-17 17:00:18,796 - Loading data from  Config.yml ::  - ERROR - [Errno 2] No such file or directory: './config11.yml'
+2020-09-17 17:00:18,796 - Loading data from  Config.yml ::  - INFO - Exception occurred to get GMM Server Details
+2020-09-17 17:00:18,796 - Loading data from  Config.yml ::  - ERROR - 'GMM_SERVER'
+2020-09-17 17:00:18,796 - Loading data from  Config.yml ::  - INFO - Exception occurred to get RAINE Server Details
+2020-09-17 17:00:18,796 - Loading data from  Config.yml ::  - ERROR - 'RAINE_SERVER'
+2020-09-17 17:00:18,797 - Loading data from  Config.yml ::  - INFO - Failed to load Config data:::
+2020-09-17 17:00:18,797 - Loading data from  Config.yml ::  - ERROR - [Errno 2] No such file or directory: './config11.yml'
+2020-09-17 17:00:18,797 - Loading data from  Config.yml ::  - INFO - Exception occurred to get GMM Server Details
+2020-09-17 17:00:18,797 - Loading data from  Config.yml ::  - ERROR - 'GMM_SERVER'
+2020-09-17 17:00:18,797 - Loading data from  Config.yml ::  - INFO - Exception occurred to get RAINE Server Details
+2020-09-17 17:00:18,797 - Loading data from  Config.yml ::  - ERROR - 'RAINE_SERVER'
+2020-09-17 17:02:46,785 - Loading data from  Config.yml ::  - INFO - Failed to load Config data:::
+2020-09-17 17:02:46,785 - Loading data from  Config.yml ::  - ERROR - [Errno 2] No such file or directory: './config11.yml'
+2020-09-17 17:02:46,785 - Loading data from  Config.yml ::  - INFO - Exception occurred to get GMM Server Details
+2020-09-17 17:02:46,785 - Loading data from  Config.yml ::  - ERROR - 'GMM_SERVER'
+2020-09-17 17:02:46,786 - Loading data from  Config.yml ::  - INFO - Exception occurred to get RAINE Server Details
+2020-09-17 17:02:46,786 - Loading data from  Config.yml ::  - ERROR - 'RAINE_SERVER'
+2020-09-17 17:02:46,786 - Loading data from  Config.yml ::  - INFO - Failed to load Config data:::
+2020-09-17 17:02:46,786 - Loading data from  Config.yml ::  - ERROR - [Errno 2] No such file or directory: './config11.yml'
+2020-09-17 17:02:46,787 - Loading data from  Config.yml ::  - INFO - Exception occurred to get GMM Server Details
+2020-09-17 17:02:46,787 - Loading data from  Config.yml ::  - ERROR - 'GMM_SERVER'
+2020-09-17 17:02:46,787 - Loading data from  Config.yml ::  - INFO - Exception occurred to get RAINE Server Details
+2020-09-17 17:02:46,787 - Loading data from  Config.yml ::  - ERROR - 'RAINE_SERVER'
+2020-09-17 17:02:46,787 - Loading data from  Config.yml ::  - INFO - Failed to load Config data:::
+2020-09-17 17:02:46,787 - Loading data from  Config.yml ::  - ERROR - [Errno 2] No such file or directory: './config11.yml'
+2020-09-17 17:02:46,788 - Loading data from  Config.yml ::  - INFO - Exception occurred to get GMM Server Details
+2020-09-17 17:02:46,788 - Loading data from  Config.yml ::  - ERROR - 'GMM_SERVER'
+2020-09-17 17:02:46,788 - Loading data from  Config.yml ::  - INFO - Exception occurred to get RAINE Server Details
+2020-09-17 17:02:46,788 - Loading data from  Config.yml ::  - ERROR - 'RAINE_SERVER'
+2020-09-17 17:03:29,811 - Loading data from  Config.yml ::  - INFO - Failed to load Config data:::
+2020-09-17 17:03:29,811 - Loading data from  Config.yml ::  - ERROR - [Errno 2] No such file or directory: './config11.yml'
+2020-09-17 17:03:29,812 - Loading data from  Config.yml ::  - INFO - Failed to load Config data:::
+2020-09-17 17:03:29,812 - Loading data from  Config.yml ::  - ERROR - [Errno 2] No such file or directory: './config11.yml'
+2020-09-17 17:03:29,812 - Loading data from  Config.yml ::  - INFO - Failed to load Config data:::
+2020-09-17 17:03:29,812 - Loading data from  Config.yml ::  - ERROR - [Errno 2] No such file or directory: './config11.yml'
+2020-09-17 17:03:59,167 - Loading data from  Config.yml ::  - INFO - Failed to load Config data:::
+2020-09-17 17:03:59,167 - Loading data from  Config.yml ::  - ERROR - [Errno 2] No such file or directory: './config11.yml'
+2020-09-17 17:03:59,168 - Loading data from  Config.yml ::  - INFO - Failed to load Config data:::
+2020-09-17 17:03:59,168 - Loading data from  Config.yml ::  - ERROR - [Errno 2] No such file or directory: './config11.yml'
+2020-09-17 17:04:30,238 - Loading data from  Config.yml ::  - INFO - Failed to load Config data:::
+2020-09-17 17:04:30,238 - Loading data from  Config.yml ::  - ERROR - [Errno 2] No such file or directory: './config11.yml'
+2020-09-17 17:04:30,239 - Loading data from  Config.yml ::  - INFO - Failed to load Config data:::
+2020-09-17 17:04:30,239 - Loading data from  Config.yml ::  - ERROR - [Errno 2] No such file or directory: './config11.yml'
+2020-09-17 17:04:55,174 - Loading data from  Config.yml ::  - INFO - Config data load successfully::: 
+2020-09-17 17:04:55,176 - Loading data from  Config.yml ::  - INFO - Config data load successfully::: 
+2020-09-17 17:15:31,212 - Loading data from  Config.yml ::  - INFO - Config data load successfully
+2020-09-17 17:15:31,215 - First Application - DEBUG - this is a debug message is 5
+2020-09-17 17:15:31,216 - First Application - INFO - this is a debug message
+2020-09-17 17:15:31,216 - First Application - INFO - {'GMM_SERVER': {'base_url': 'https://cyclops.iotspdev.io/api/v2/', 'auth_ur': 'users/access_token', 'get_organization_members': 'organizations/{{:org_id}}/memberships'}, 'RAINE_SERVER': {'base_url': 'https://rainierbts1.ciscoiotdev.io/iam/', 'auth_url': 'auth/token', 'get_roles': 'roles?x-tenant-id=', 'create_roles': 'roles', 'get_users': 'users', 'create_users': 'users'}}
+2020-09-17 17:16:32,822 - Loading data from  Config.yml ::  - INFO - Config data load successfully
+2020-09-17 17:16:32,825 - First Application - DEBUG - this is a debug message is 5
+2020-09-17 17:16:32,826 - First Application - INFO - this is a debug message
+2020-09-17 17:16:32,826 - First Application - INFO - {'GMM_SERVER': {'base_url': 'https://cyclops.iotspdev.io/api/v2/', 'auth_ur': 'users/access_token', 'get_organization_members': 'organizations/{{:org_id}}/memberships'}, 'RAINE_SERVER': {'base_url': 'https://rainierbts1.ciscoiotdev.io/iam/', 'auth_url': 'auth/token', 'get_roles': 'roles?x-tenant-id=', 'create_roles': 'roles', 'get_users': 'users', 'create_users': 'users'}}
+2020-09-17 17:17:59,270 - Loading data from  Config.yml ::  - INFO - Config data load successfully
+2020-09-17 17:17:59,273 - First Application - DEBUG - this is a debug message is 5
+2020-09-17 17:17:59,273 - First Application - INFO - this is a debug message
+2020-09-17 17:17:59,273 - First Application - INFO - {'GMM_SERVER_URLS': {'base_url': 'https://cyclops.iotspdev.io/api/v2/', 'auth_url': 'users/access_token', 'get_organization_members': 'organizations/{{:org_id}}/memberships'}, 'RAINE_SERVER_URLS': {'base_url': 'https://rainierbts1.ciscoiotdev.io/iam/', 'auth_url': 'auth/token', 'get_roles': 'roles?x-tenant-id=', 'create_roles': 'roles', 'get_users': 'users', 'create_users': 'users'}}
+2020-09-17 17:40:32,907 - Loading data from  Config.yml ::  - INFO - Config data load successfully
+2020-09-17 17:56:29,256 - Loading data from  Config.yml ::  - INFO - Config data load successfully
+2020-09-17 17:56:30,782 - Post Request Handler for :: https://cyclops.iotspdev.io/api/v2/users/access_token - INFO - Success
+2020-09-17 17:56:30,782 - Login  Deatisl:: - INFO - GMM Server login  Successfull
+2020-09-17 18:00:03,225 - Loading data from  Config.yml ::  - INFO - Config data load successfully
+2020-09-17 18:00:04,723 - Post Request Handler for :: https://cyclops.iotspdev.io/api/v2/users/access_token - INFO - Success
+2020-09-17 18:00:04,724 - Login  Deatisl:: - INFO - GMM Server login  Successfull
+2020-09-17 18:00:06,139 - Post Request Handler for :: https://rainierbts1.ciscoiotdev.io/iam/auth/token - INFO - Success
+2020-09-17 18:00:06,139 - Login  Deatisl:: - INFO - Raine Server login  Successfull

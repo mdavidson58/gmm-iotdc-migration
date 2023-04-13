@@ -1,0 +1,28 @@
+GMM_SERVER_URLS:
+  base_url: https://us.ciscokinetic.io/api/v2/
+  auth_url: users/access_token
+  get_organization: /organizations/^
+  get_organization_members: organizations/^/memberships
+  get_child_organizations: /organizations/^/child_organizations
+  get_gateway_params: organizations/^/gate_ways
+
+RAINE_SERVER_URLS:
+  base_url: https://us.ciscoiot.com/iam/
+  auth_url: auth/token
+  get_roles: roles?x-tenant-id=
+  create_roles: roles
+  get_users: users
+  create_users: users
+  create_tenants: tenants
+
+APP_MIGRATION_CONFIG_VARS:
+  base_url: https://us.ciscoiot.com
+  port: 443
+  api_user: user@cisco.com
+  api_password: password
+  api_prefix: ""
+  auth_type: "Rainier" # Auth Type can be `Basic` or `Rainier`(when you want to use IOX_Proxy API)
+  platform: windows
+  tenant_id: "**************************"
+  GMM_API_KEY: "********************"
+  GMM_ORG_ID: 1234
